@@ -119,3 +119,4 @@ $body=array('name'=>$tit,'email'=>$email);
 
 
 //E:\phpStudy\WWW\http>E:\phpStudy\php56n\php.exe ./http.php
+//hello
